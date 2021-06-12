@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'android'" />
-    <option name="defaultScopeName" value="Project 'android'" />
-    <option name="SEARCH_SCOPE" value="Project 'android'" />
+    <option name="customScope" value="Directory '.../app [android.app]'" />
+    <option name="defaultScopeName" value="Directory '.../app [android.app]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../app [android.app]'" />
   </component>
 </application>
